@@ -1,7 +1,6 @@
 """
     File    : street.py
-    Author  : Rajesh Tummalapalli
-    Course  : CSC 120, Fall 2024
+    Author  : Eshrath Subhani
     Purpose : This program creates a visualization of a city street by 
               allowing the user to input a one-line specification of various
               street elements, including buildings, parks, and empty lots. 
