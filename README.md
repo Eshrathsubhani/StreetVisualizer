@@ -13,20 +13,3 @@ Users input the specifications of street elements (such as b:5,10,X for a buildi
 The program calculates the total width and height of the street and generates a visual layout using ASCII characters.
 The resulting output is printed directly to the terminal or command prompt.
 
-example input :
-Street: b:5,10,X e:3,_ p:7,* b:4,8,# e:2,. p:6,~
-expected output :
-+---------------------------+
-|                           |
-|                           |
-|             ||            |
-|         *****             |
-|        ***                |
-|        *                  |
-|    XXXXX    ####          |
-|    XXXXX    ####          |
-|    XXXXX    ####          |
-|    XXXXX    ####          |
-|    XXXXX    ####          |
-|    XXXXX                   |
-+---------------------------+
